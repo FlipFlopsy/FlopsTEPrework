@@ -1,0 +1,13 @@
+What (if any) additional input variables do you need?
+	variables for the closet door, main door and window
+
+Where would you add or remove process steps or change any current steps?
+	step 5: set main area = main area - main door area - closet door area - window area
+	step 9: set closet area = closet area - closet door area
+	step 10: multiply total area by 2
+
+What (if any) additional constants or temporary variables do you need?
+	none
+
+What (if any) steps don't need to change?
+	any not listed
