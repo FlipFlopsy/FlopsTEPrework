@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9ahlvbAUdPfPpi0flZxM-1" value="Room" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="70" width="640" height="800" as="geometry" />
+          <mxGeometry x="60" y="70" width="460" height="800" as="geometry" />
         </mxCell>
         <mxCell id="9ahlvbAUdPfPpi0flZxM-12" value="Height" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9ahlvbAUdPfPpi0flZxM-1">
-          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ahlvbAUdPfPpi0flZxM-8" value="Main Room" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="9ahlvbAUdPfPpi0flZxM-1">
-          <mxGeometry x="20" y="120" width="280" height="300" as="geometry" />
+          <mxGeometry x="10" y="110" width="280" height="300" as="geometry" />
         </mxCell>
         <mxCell id="9ahlvbAUdPfPpi0flZxM-10" value="Width" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9ahlvbAUdPfPpi0flZxM-8">
           <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="10" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ahlvbAUdPfPpi0flZxM-13" value="Closet" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="9ahlvbAUdPfPpi0flZxM-1">
-          <mxGeometry x="20" y="440" width="280" height="360" as="geometry" />
+          <mxGeometry x="10" y="430" width="280" height="360" as="geometry" />
         </mxCell>
         <mxCell id="9ahlvbAUdPfPpi0flZxM-15" value="Depth" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9ahlvbAUdPfPpi0flZxM-13">
           <mxGeometry x="145" y="30" width="120" height="60" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="10" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ahlvbAUdPfPpi0flZxM-16" value="Door" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="9ahlvbAUdPfPpi0flZxM-1">
-          <mxGeometry x="370" y="50" width="140" height="180" as="geometry" />
+          <mxGeometry x="310" y="30" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="9ahlvbAUdPfPpi0flZxM-17" value="Height" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="9ahlvbAUdPfPpi0flZxM-16">
           <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
