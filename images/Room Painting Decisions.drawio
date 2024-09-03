@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="Page-1" id="iOYmFABcgLfnVLQrmPDC">
-    <mxGraphModel dx="1265" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1268" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,9 +159,6 @@
         </mxCell>
         <mxCell id="SD6BFe2wW6tSJZ-N4x0d-49" value="Set &lt;b&gt;Main Door Area&lt;/b&gt;&amp;nbsp;to &lt;b&gt;Result&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SD6BFe2wW6tSJZ-N4x0d-50" value="Set &lt;b&gt;Total Area &lt;/b&gt;to &lt;b&gt;Main Room Area+Closet Area-Window Area-Main Door Area-2(Closet Door Area)&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1220" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SD6BFe2wW6tSJZ-N4x0d-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SD6BFe2wW6tSJZ-N4x0d-52" target="SD6BFe2wW6tSJZ-N4x0d-54">
           <mxGeometry relative="1" as="geometry" />
